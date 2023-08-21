@@ -33,7 +33,7 @@ fecha válida en el calendario gregoriano).
 Escribe pruebas unitarias para asegurarte de que el validador de fechas detecte correctamente
 fechas válidas e inválidas, teniendo en cuenta diferentes casos, como años bisiestos.
 
-### Ejercicios de Aprendizaje
+### Ejercicios de Aprendizaje Extra
 
 1. Generador de Números Aleatorios:
 Crea una clase RandomNumberGenerator que genere números aleatorios dentro de un rango
